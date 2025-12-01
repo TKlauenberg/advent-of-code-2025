@@ -1,1 +1,9 @@
-{}
+{
+  "FSharp.dotnetRoot": "/usr/share/dotnet",
+  "dotnetAcquisitionExtension.existingDotnetPath": [
+    {
+      "extensionId": "ms-dotnettools.csharp",
+      "path": "/usr/share/dotnet"
+    }
+  ],
+}
